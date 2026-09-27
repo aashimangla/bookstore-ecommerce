@@ -52,7 +52,7 @@ bookstore-ecommerce/
 └── README.md
 ```
 
-📄 Pages
+##📄 Pages
 🏠 Home
 
 The main landing page of the bookstore website featuring the store's content, products, and navigation.
